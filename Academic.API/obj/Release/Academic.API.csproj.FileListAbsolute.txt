@@ -1,0 +1,1486 @@
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Academic.API.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Academic.API.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Academic.API.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Antlr3.Runtime.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Authentication.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Data.Domain.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Data.TransferObject.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\EntityFramework.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Interface.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Owin.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Cors.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Helpers.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Http.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Mvc.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Optimization.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Razor.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Unity.Abstractions.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Unity.Container.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Unity.WebApi.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\WebGrease.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Wrapper.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Repository.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Authentication.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Authentication.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Data.Domain.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Data.Domain.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Data.TransferObject.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Interface.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Wrapper.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\EntityFramework.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Helpers.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Http.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Mvc.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Optimization.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.Razor.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Unity.Abstractions.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Unity.Container.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Antlr3.Runtime.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Repository.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Repository.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\obj\Release\Academic.API.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\obj\Release\Academic.API.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\obj\Release\Academic.API.csproj.CopyComplete
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\obj\Release\Academic.API.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\obj\Release\Academic.API.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Core.Common.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\stdole.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Core.Common.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\obj\Release\Academic.API.dll.licenses
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.SqlServer.Types.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Report.Repository.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\EnvDTE.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.MSXML.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Report.Repository.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Report.Repository.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Academic.API.dll.config
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Academic.API.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Academic.API.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Authentication.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Core.Common.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Data.Domain.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Data.TransferObject.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\EntityFramework.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Interface.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Owin.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Report.Repository.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Cors.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Unity.Abstractions.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Unity.Container.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Unity.WebApi.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\WebGrease.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Wrapper.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Repository.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\EnvDTE.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\stdole.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.MSXML.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Authentication.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Authentication.dll.config
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Core.Common.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Data.Domain.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Data.Domain.dll.config
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Data.TransferObject.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Interface.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Report.Repository.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Report.Repository.dll.config
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Wrapper.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\EntityFramework.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Unity.Abstractions.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Unity.Container.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Repository.pdb
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Repository.dll.config
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\obj\Release\Academic.API.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\portal.api\Academic.API\obj\Release\Academic.API.dll.licenses
+C:\Users\USER\Desktop\portal.api\Academic.API\obj\Release\Academic.API.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\portal.api\Academic.API\obj\Release\Academic.API.csproj.CopyComplete
+C:\Users\USER\Desktop\portal.api\Academic.API\obj\Release\Academic.API.dll
+C:\Users\USER\Desktop\portal.api\Academic.API\obj\Release\Academic.API.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Win32.Primitives.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\netstandard.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.AppContext.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Collections.Concurrent.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Collections.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Collections.NonGeneric.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Collections.Specialized.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.ComponentModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.ComponentModel.Primitives.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Console.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Data.Common.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Contracts.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Debug.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Process.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.StackTrace.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Tools.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.TraceSource.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Tracing.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Drawing.Primitives.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Dynamic.Runtime.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Globalization.Calendars.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Globalization.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Globalization.Extensions.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.Compression.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.Compression.ZipFile.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.FileSystem.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.IsolatedStorage.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.Pipes.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Linq.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Linq.Expressions.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Linq.Parallel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Linq.Queryable.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.Http.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.NameResolution.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.NetworkInformation.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.Ping.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.Primitives.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.Requests.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.Security.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.Sockets.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.WebHeaderCollection.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.WebSockets.Client.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Net.WebSockets.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.ObjectModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Reflection.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Reflection.Extensions.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Reflection.Primitives.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Resources.Reader.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Resources.ResourceManager.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Resources.Writer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.Extensions.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.Handles.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.InteropServices.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.Numerics.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.Serialization.Json.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Security.Claims.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.Csp.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Security.Principal.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Security.SecureString.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Text.Encoding.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Text.Encoding.Extensions.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Text.RegularExpressions.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.Overlapped.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.Tasks.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.Thread.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.ThreadPool.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.Timer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Xml.ReaderWriter.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Xml.XDocument.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Xml.XmlDocument.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Xml.XmlSerializer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Xml.XPath.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Xml.XPath.XDocument.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Azure.Core.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Azure.Storage.Blobs.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Azure.Storage.Common.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.Storage.Blob.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.Storage.Common.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Buffers.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Memory.Data.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Memory.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Text.Json.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.ValueTuple.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Azure.Core.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Azure.Storage.Blobs.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Azure.Storage.Common.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.Storage.Blob.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.Storage.Common.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Buffers.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Memory.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Memory.Data.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Text.Encodings.Web.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Text.Json.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\System.ValueTuple.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Production\ApplicationSummary.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\ApplicationForm.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\programmesChoosenSub.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\ApplicationForm.cs
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\programmesChoosenSub.cs
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Production\ApplicationForm.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Production\programmesChoosenSub.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Production\ApplicationForm.cs
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Production\programmesChoosenSub.cs
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\ApplicationSummary.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Production\FeeStructureold.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Production\OfferLetterold.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\FeeStructure.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\OfferLetter.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\FeeStructure22.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\OfferLetter22.rpt
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\FeeStructure22.cs
+C:\Users\USER\source\repos\School Portal\portal.api\Academic.API\bin\Reports\Admission\OfferLetter22.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\ApplicationForm.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\ApplicationSummary.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\FeeStructure22.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\FeeStructure.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\OfferLetter22.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\OfferLetter.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\programmesChoosenSub.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Production\ApplicationForm.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Production\ApplicationSummary.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Production\FeeStructureold.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Production\OfferLetterold.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Production\programmesChoosenSub.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\ApplicationForm.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\FeeStructure22.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\OfferLetter22.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Admission\programmesChoosenSub.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Production\ApplicationForm.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Reports\Production\programmesChoosenSub.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Academic.API.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Academic.API.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Academic.API.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\netstandard.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.AppContext.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Collections.Concurrent.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Collections.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Collections.NonGeneric.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Collections.Specialized.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.ComponentModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.ComponentModel.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Console.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Data.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Contracts.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Debug.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Process.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Tools.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.Tracing.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Drawing.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Dynamic.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Globalization.Calendars.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Globalization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Globalization.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.Compression.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.FileSystem.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.IsolatedStorage.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.Pipes.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Linq.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Linq.Expressions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Linq.Parallel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Linq.Queryable.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.Http.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.NameResolution.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.NetworkInformation.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.Ping.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.Requests.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.Security.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.Sockets.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.WebSockets.Client.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.WebSockets.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.ObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Reflection.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Reflection.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Reflection.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Resources.Reader.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Resources.ResourceManager.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Resources.Writer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.Handles.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.InteropServices.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.Numerics.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Security.Claims.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Security.Principal.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Security.SecureString.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Text.Encoding.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Text.RegularExpressions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.Overlapped.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.Tasks.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.Thread.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.ThreadPool.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.Timer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Xml.ReaderWriter.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Xml.XDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Xml.XmlDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Xml.XmlSerializer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Xml.XPath.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Antlr3.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Authentication.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Azure.Core.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Azure.Storage.Blobs.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Azure.Storage.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Core.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.Shared.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Data.Domain.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Data.TransferObject.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\EntityFramework.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Interface.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.Storage.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Newtonsoft.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Owin.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Report.Repository.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Buffers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Memory.Data.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Memory.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Numerics.Vectors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Text.Encodings.Web.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Text.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.ValueTuple.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Cors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Helpers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Http.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Mvc.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Optimization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Razor.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Unity.Abstractions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Unity.Container.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Unity.WebApi.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\WebGrease.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Wrapper.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Repository.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\EnvDTE.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\stdole.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.MSXML.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Authentication.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Authentication.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Core.Common.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Data.Domain.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Data.TransferObject.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Interface.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Report.Repository.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Report.Repository.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Wrapper.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Azure.Core.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Azure.Storage.Blobs.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Azure.Storage.Common.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\EntityFramework.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.Storage.Blob.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Azure.Storage.Common.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Buffers.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Memory.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Memory.Data.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Numerics.Vectors.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Text.Encodings.Web.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Text.Json.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.ValueTuple.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Newtonsoft.Json.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Helpers.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Http.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Mvc.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Optimization.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.Razor.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Unity.Abstractions.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Unity.Container.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Antlr3.Runtime.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Repository.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Repository.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\obj\Release\Academic.API.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\obj\Release\Academic.API.dll.licenses
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\obj\Release\Academic.API.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\obj\Release\Academic.API.csproj.CopyComplete
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\obj\Release\Academic.API.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Academic.API\obj\Release\Academic.API.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\ApplicationForm.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\ApplicationSummary.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\FeeStructure22.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\FeeStructure.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\OfferLetter22.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\OfferLetter.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\programmesChoosenSub.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Production\ApplicationForm.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Production\ApplicationSummary.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Production\FeeStructureold.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Production\OfferLetterold.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Production\programmesChoosenSub.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\ApplicationForm.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\FeeStructure22.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\OfferLetter22.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Admission\programmesChoosenSub.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Production\ApplicationForm.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Reports\Production\programmesChoosenSub.cs
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Academic.API.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Academic.API.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Academic.API.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\netstandard.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.AppContext.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Collections.Concurrent.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Collections.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Collections.NonGeneric.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Collections.Specialized.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.ComponentModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.ComponentModel.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Console.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Data.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.Contracts.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.Debug.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.Process.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.Tools.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.Tracing.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Drawing.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Dynamic.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Globalization.Calendars.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Globalization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Globalization.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.Compression.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.FileSystem.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.IsolatedStorage.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.Pipes.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Linq.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Linq.Expressions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Linq.Parallel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Linq.Queryable.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.Http.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.NameResolution.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.NetworkInformation.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.Ping.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.Requests.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.Security.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.Sockets.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.WebSockets.Client.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.WebSockets.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.ObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Reflection.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Reflection.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Reflection.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Resources.Reader.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Resources.ResourceManager.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Resources.Writer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.Handles.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.InteropServices.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.Numerics.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Security.Claims.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Security.Principal.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Security.SecureString.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Text.Encoding.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Text.RegularExpressions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.Overlapped.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.Tasks.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.Thread.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.ThreadPool.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.Timer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Xml.ReaderWriter.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Xml.XDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Xml.XmlDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Xml.XmlSerializer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Xml.XPath.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Antlr3.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Authentication.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Azure.Core.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Azure.Storage.Blobs.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Azure.Storage.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Core.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.Shared.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Data.Domain.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Data.TransferObject.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\EntityFramework.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Interface.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Azure.Storage.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Newtonsoft.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Owin.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Report.Repository.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Buffers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Memory.Data.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Memory.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Numerics.Vectors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Text.Encodings.Web.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Text.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.ValueTuple.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Cors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Helpers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Http.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Mvc.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Optimization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Razor.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.WebPages.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Unity.Abstractions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Unity.Container.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Unity.WebApi.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\WebGrease.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Wrapper.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Repository.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\EnvDTE.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\stdole.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.MSXML.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Authentication.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Authentication.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Core.Common.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Data.Domain.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Data.TransferObject.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Interface.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Report.Repository.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Report.Repository.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Wrapper.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Azure.Core.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Azure.Storage.Blobs.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Azure.Storage.Common.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\EntityFramework.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Azure.Storage.Blob.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Azure.Storage.Common.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Buffers.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Memory.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Memory.Data.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Numerics.Vectors.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Text.Encodings.Web.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Text.Json.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.ValueTuple.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Newtonsoft.Json.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Helpers.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Http.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Mvc.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Optimization.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.Razor.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.WebPages.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Unity.Abstractions.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Unity.Container.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Antlr3.Runtime.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Repository.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Repository.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\obj\Release\Academic.API.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\obj\Release\Academic.API.dll.licenses
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\obj\Release\Academic.API.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\obj\Release\Academic.API.csproj.CopyComplete
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\obj\Release\Academic.API.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api - Copy\Academic.API\obj\Release\Academic.API.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\ApplicationForm.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\ApplicationSummary.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\FeeStructure22.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\FeeStructure.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\OfferLetter22.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\OfferLetter.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\programmesChoosenSub.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Production\ApplicationForm.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Production\ApplicationSummary.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Production\FeeStructureold.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Production\OfferLetterold.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Production\programmesChoosenSub.rpt
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\ApplicationForm.cs
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\FeeStructure22.cs
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\OfferLetter22.cs
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Admission\programmesChoosenSub.cs
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Production\ApplicationForm.cs
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Reports\Production\programmesChoosenSub.cs
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Academic.API.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Academic.API.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Academic.API.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\netstandard.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.AppContext.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Collections.Concurrent.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Collections.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Collections.NonGeneric.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Collections.Specialized.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.ComponentModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.ComponentModel.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Console.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Data.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.Contracts.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.Debug.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.Process.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.Tools.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.Tracing.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Drawing.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Dynamic.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Globalization.Calendars.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Globalization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Globalization.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.Compression.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.FileSystem.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.IsolatedStorage.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.Pipes.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Linq.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Linq.Expressions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Linq.Parallel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Linq.Queryable.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.Http.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.NameResolution.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.NetworkInformation.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.Ping.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.Requests.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.Security.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.Sockets.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.WebSockets.Client.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.WebSockets.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.ObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Reflection.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Reflection.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Reflection.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Resources.Reader.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Resources.ResourceManager.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Resources.Writer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.Handles.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.InteropServices.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.Numerics.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Security.Claims.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Security.Principal.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Security.SecureString.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Text.Encoding.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Text.RegularExpressions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.Overlapped.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.Tasks.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.Thread.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.ThreadPool.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.Timer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Xml.ReaderWriter.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Xml.XDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Xml.XmlDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Xml.XmlSerializer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Xml.XPath.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Antlr3.Runtime.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Authentication.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Azure.Core.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Azure.Storage.Blobs.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Azure.Storage.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Core.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.Shared.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Data.Domain.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Data.TransferObject.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\EntityFramework.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Interface.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Azure.Storage.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Newtonsoft.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Owin.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Report.Repository.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Buffers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Memory.Data.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Memory.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Numerics.Vectors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Text.Encodings.Web.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Text.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.ValueTuple.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Cors.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Helpers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Http.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Mvc.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Optimization.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Razor.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.WebPages.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Unity.Abstractions.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Unity.Container.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Unity.WebApi.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\WebGrease.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Wrapper.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Repository.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\EnvDTE.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\stdole.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.MSXML.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Authentication.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Authentication.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Core.Common.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Data.Domain.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Data.TransferObject.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Interface.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Report.Repository.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Report.Repository.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Wrapper.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Azure.Core.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Azure.Storage.Blobs.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Azure.Storage.Common.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\EntityFramework.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Azure.Storage.Blob.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Azure.Storage.Common.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Buffers.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Memory.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Memory.Data.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Numerics.Vectors.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Text.Encodings.Web.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Text.Json.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.ValueTuple.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Newtonsoft.Json.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Helpers.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Http.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Mvc.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Optimization.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.Razor.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.WebPages.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Unity.Abstractions.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Unity.Container.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Antlr3.Runtime.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Repository.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Repository.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\obj\Release\Academic.API.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\obj\Release\Academic.API.dll.licenses
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\obj\Release\Academic.API.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\obj\Release\Academic.API.csproj.CopyComplete
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\obj\Release\Academic.API.dll
+C:\Users\Yarima\Documents\Projects\School Portal\Backup Before Accounting Modification\portal.api - Copy\Academic.API\obj\Release\Academic.API.pdb

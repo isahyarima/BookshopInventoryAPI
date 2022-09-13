@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\DataTransferModel\bin\Debug\DataTransferModel.dll
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\DataTransferModel\bin\Debug\DataTransferModel.pdb
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\DataTransferModel\obj\Debug\DataTransferModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\DataTransferModel\obj\Debug\DataTransferModel.dll
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\DataTransferModel\obj\Debug\DataTransferModel.pdb
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\DataTransferModel\obj\Debug\DataTransferModel.csproj.AssemblyReference.cache

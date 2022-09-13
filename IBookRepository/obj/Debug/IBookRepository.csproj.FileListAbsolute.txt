@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\IBookRepository.dll
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\IBookRepository.pdb
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\DataModel.dll
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\DataTransferModel.dll
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\DataModel.pdb
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\DataModel.dll.config
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\DataTransferModel.pdb
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\obj\Debug\IBookRepository.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\obj\Debug\IBookRepository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\obj\Debug\IBookRepository.csproj.CopyComplete
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\obj\Debug\IBookRepository.dll
+C:\Users\Admin\Documents\Projects\BookShop\BookShopInventoty\IBookRepository\obj\Debug\IBookRepository.pdb
